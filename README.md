@@ -6,10 +6,6 @@ Welcome to the Local Eats Backend repository! This README file provides an overv
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
