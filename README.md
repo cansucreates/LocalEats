@@ -16,7 +16,7 @@ The Local Eats Backend is the heart of our platform, responsible for handling re
 ## Features
 
 ### 1. Authentication
-- User registration and login using Firebase authentication.
+- User registration and login using Google authentication.
 - Secure and token-based authentication system.
 
 ### 2. Meal Management
